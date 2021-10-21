@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: bush
+  m_Shader: {fileID: 4800000, guid: 45df7f700c8e8c74e8801b77be4262fc, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2ef3a4d3b37b8404b9c421dbd5b1354d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: 1f35425397a798444a778d29d6e32969, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlendIntensity: -14.7
+    - _BlendOffset: -0.5
+    - _BlendRamp: -6.8
+    - _TintTexture2Intensity: 2.47
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

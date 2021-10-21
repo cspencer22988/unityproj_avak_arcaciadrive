@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Pool
+  m_Shader: {fileID: 4800000, guid: adceff7b741e1d149a5a77c289aea907, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: ac3799d95f6cef2428659fa72f2d23cf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: 1c5203efee587294aa06d03a201b4a40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _FresnelScale: 4
+    - _LightmapSpec: 3
+    - _Shininess: 2
+    - _alphaOverride: 0
+    - _frenselStrength: 0.7
+    - _shineness: 8
+    - _speed: 0.05
+    m_Colors:
+    - _AnimationDirection: {r: 1, g: 1, b: 1, a: 1}
+    - _AnimationTiling: {r: 2.2, g: 2.2, b: -1.1, a: -1.1}
+    - _BaseColor: {r: 0.8970588, g: 0.9744422, b: 1, a: 0}
+    - _BumpDirection: {r: 1.3, g: -2.28, b: -7.26, a: 2}
+    - _BumpTiling: {r: -0.13, g: 0.14, b: 0.1, a: 0.17}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _DistortParams: {r: 0.07, g: 0.3, b: 29.9, a: -0.11}
+    - _FadeColor: {r: 0.72, g: 0.72, b: 0.72, a: 1}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 0.427}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 1}
+    - _WorldLightDir: {r: 0, g: 0.1, b: -0.5, a: 0}
+    - _baseColor: {r: 0.0432526, g: 0.1470588, b: 0.1255817, a: 1}
+    - _direction: {r: 0, g: 0, b: 0, a: 0}
+    - _lightDir: {r: 0, g: 1, b: 0, a: 0}
+    - _reflectColor: {r: 0.5955882, g: 0.9665314, b: 1, a: 1}
+    - _specColor: {r: 0.9954361, g: 1, b: 0.6691177, a: 1}
+    - _tiling: {r: 1, g: 1, b: 1, a: 1}
